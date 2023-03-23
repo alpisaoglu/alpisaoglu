@@ -1,6 +1,3 @@
-<h1 align="center">Hi,I'm Alperen</h1>
-<h3 align="center">I passionate cyber security</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpisaoglu&label=Profile%20views&color=0e75b6&style=flat" alt="alpisaoglu" /> </p>
 
 - 🌱 I’m currently learning **Cisco Network Security, Cisco CCNA 2**
