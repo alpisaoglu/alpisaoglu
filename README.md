@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Cisco Network Security, Cisco CCNA 2**
 
-- 📄 Know about my experiences [https://tinyurl.com/mr48fhwe](https://tinyurl.com/mr48fhwe)
+- 📄 About my experiences [https://tinyurl.com/mr48fhwe](https://tinyurl.com/mr48fhwe)
 
 <h3 align="left">My Accounts:</h3>
 <p align="left">
