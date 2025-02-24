@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alpisaoglu&label=Profile%20views&color=0e75b6&style=flat" alt="alpisaoglu" /> </p>
 
-- 🌱 I’m currently learning **Cisco Network Security, Cisco CCNA 2**
 
 - 📄 About my experiences [**Alperen's Resume**](https://tinyurl.com/mr48fhwe)
 
